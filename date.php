@@ -127,7 +127,7 @@ if ($db->createLink() == 0) {
     </div>
             </div>
             <div class="row footer">
-                <div class="col-*-*"><p><a href="#">Github</a></p></div>
+                <div class="col-*-*"><p><a href="https://github.com/Jebvo777/Test-task-for-PGU.git">Github</a></p></div>
             </div>
         </div>
         </body>
